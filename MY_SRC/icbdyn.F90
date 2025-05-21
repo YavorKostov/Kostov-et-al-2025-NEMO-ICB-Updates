@@ -9,6 +9,10 @@ MODULE icbdyn
    !!             -   !  2011-04  (Alderson)  Split into separate modules
    !!             -   !  2011-05  (Alderson)  Replace broken grounding routine with one of
    !!             -   !                       Gurvan's suggestions (just like the broken one)
+   !!             -   !  2025-05  (Kostov)    Update the pressure gradient force,
+   !!             -   !                       the ocean drag, sediment resistance,
+   !!             -   !                       gravity and Coulomb friction along the solid
+   !!             -   !                       basement
    !!----------------------------------------------------------------------
    USE par_oce        ! NEMO parameters
    USE dom_oce        ! NEMO ocean domain
