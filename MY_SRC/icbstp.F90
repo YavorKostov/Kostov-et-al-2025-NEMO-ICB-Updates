@@ -10,6 +10,7 @@ MODULE icbstp
    !!            -    !                            Move budgets to icbdia routine
    !!            -    !  2011-05  (Alderson)       Add call to copy forcing arrays
    !!            -    !                            into icb copies with haloes
+   !!             -   !  2025-05  (Kostov)    Update the iceberg substepping
    !!----------------------------------------------------------------------
 
    !!----------------------------------------------------------------------
