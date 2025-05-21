@@ -1,4 +1,6 @@
-Model code and input files for the simulations in Kostov et al. (2025)
+Model code and input files for the simulations in Kostov et al. (2025) 
+including code developed by Yavor Kostov to improve the iceberg dynamics
+and grounding capability in NEMO.
 
 Modelled dynamics of floating and grounded icebergs, with application to the Amundsen Sea
 
