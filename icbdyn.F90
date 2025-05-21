@@ -116,7 +116,13 @@ CONTAINS
       ENDIF
 
 
-
+      ! Yavor Kostov: The staggered time-stepping of the legacy
+      ! 4th order Runge-Kutta method below appears to be non-standard,
+      ! especially when updating velocity. This may be an intended feature.
+      ! It is beyond the scope of Kostov et al. (2025) to modify
+      ! the staggering of the Runge-Kutta stages.
+      ! As of now, all Kostov et al. (2025) updates are designed to be
+      ! compatible with the legacy staggering.
       !!----------------------------------------------------------------------
       !
       ! 4th order Runge-Kutta to solve:   d/dt X = V,  d/dt V = A
