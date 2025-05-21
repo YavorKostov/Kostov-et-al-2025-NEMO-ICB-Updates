@@ -9,6 +9,7 @@ MODULE icbutl
    !!            -    !  2011-04  (Alderson)       Split into separate modules
    !!           4.2   !  2020-07  (P. Mathiot)     simplification of interpolation routine
    !!                 !                            and add Nacho Merino work
+   !!             -   !  2025-05  (Kostov)    Update the pressure gradient force
    !!----------------------------------------------------------------------
 
    !!----------------------------------------------------------------------
