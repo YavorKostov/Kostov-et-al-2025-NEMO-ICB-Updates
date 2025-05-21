@@ -1,5 +1,5 @@
 Updates to the iceberg dynamics and grounding code following Kostov et al. (2025).
-   !!             -   !  2025-05  (Kostov)    Update the pressure gradient force,
+   !!             -   !  2025-05  (Kostov)    Updated the pressure gradient force,
    !!             -   !                       the ocean drag, sediment resistance,
    !!             -   !                       gravity and Coulomb friction along the solid
    !!             -   !                       basement, and introduced iceberg substepping
