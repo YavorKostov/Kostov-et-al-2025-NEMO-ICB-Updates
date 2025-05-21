@@ -1,1 +1,3 @@
-
+Code to compile a test case using the updated simple iceberg grounding scheme
+and to simulate the behavior of THICK icebergs in the SHORT simulation from
+Kostov et al. (2025).
